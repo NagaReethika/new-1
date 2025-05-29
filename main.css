@@ -1,0 +1,13 @@
+html {
+                font-size: 22px
+            }
+            body {
+                background-color: blueviolet;
+                color: beige;
+            }
+            strong {
+                background-color: brown;
+                color: black;
+                font-size: smaller;
+            }
+    
